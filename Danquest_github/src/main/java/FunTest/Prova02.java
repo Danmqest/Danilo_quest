@@ -1,4 +1,4 @@
-package br.senac.tads.pi1b.danquest_github.FunTest;
+package FunTest;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license

@@ -1,4 +1,4 @@
-package br.senac.tads.pi1b.danquest_github.Algotimos;
+package Algotimos;
 
 
 
